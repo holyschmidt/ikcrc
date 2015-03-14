@@ -1,0 +1,1 @@
+Parses combat report details (units remaining/lost, resources, victors, etc) and converts report into a new format for display into various mediums.
